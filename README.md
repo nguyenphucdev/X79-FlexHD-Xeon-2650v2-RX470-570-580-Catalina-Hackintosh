@@ -26,3 +26,7 @@ Also note that I've set my system memory info within the SMBIOS in clover. You s
 
 ## Troubleshooting techniques
 - If you facing any problem, please place a comment below tutorial video
+
+## Donation
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/nguyenphucdev)
+
