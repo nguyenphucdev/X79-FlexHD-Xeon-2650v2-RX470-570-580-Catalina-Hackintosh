@@ -1,0 +1,108 @@
+18:920  0:154  Found BIOS RSDP at F0000
+18:920  0:000  Printing ACPI tables from RSDP F0000 ...
+18:920  0:000   F0000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+18:920  0:000    (Xsdt: BAD8C080, Rsdt: BAD8C028)
+18:920  0:000    BAD8C080: 'XSDT', 'A M I', Rev: 1, Len: 124
+18:920  0:000    BAD8C028: 'RSDT', 'A M I', Rev: 1, Len: 80
+18:920  0:000    Tables in Xsdt: 11
+18:920  0:000    0. BAD94758: 'FACP', 'A M I', Rev: 5, Len: 268
+18:920  0:000        (Dsdt: BAD8C190, Facs: BB345F80, XDsdt: BAD8C190, XFacs: 0)
+18:920  0:000        BAD8C190: 'DSDT', 'A M I', Rev: 2, Len: 34247
+18:922  0:001        BB345F80: 'FACS', Ver: 2, Len: 64
+18:922  0:000    1. BAD94868: 'APIC', 'A M I', Rev: 3, Len: 312
+18:922  0:000    2. BAD949A0: 'FPDT', 'A M I', Rev: 1, Len: 68
+18:922  0:000    3. BAD949E8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+18:922  0:000    4. BAD94A28: 'HPET', 'A M I', Rev: 1, Len: 56
+18:922  0:000    5. BAD94A60: 'SSDT', 'CpuPm', Rev: 2, Len: 840576
+18:922  0:000    6. BAE61DE0: 'BGRT', 'A M I', Rev: 0, Len: 56
+18:922  0:000    7. BAE61E18: 'EINJ', 'AMI EINJ', Rev: 1, Len: 304
+18:922  0:000    8. BAE61F48: 'ERST', 'AMI ERST', Rev: 1, Len: 560
+18:922  0:000    9. BAE62178: 'HEST', 'AMI HEST', Rev: 1, Len: 168
+18:922  0:000    10. BAE62220: 'BERT', 'AMI BERT', Rev: 1, Len: 48
+18:922  0:000    Tables in Rsdt: 11
+18:922  0:000    0. BAD8C108: 'FACP', 'A M I', Rev: 2, Len: 132
+18:922  0:000        (Dsdt: BAD8C190, Facs: BB345F40)
+18:922  0:000        BAD8C190: 'DSDT', 'A M I', Rev: 2, Len: 34247
+18:924  0:001        BB345F40: 'FACS', Ver: 0, Len: 64
+18:924  0:000    1. BAD94868: 'APIC', 'A M I', Rev: 3, Len: 312
+18:924  0:000    2. BAD949A0: 'FPDT', 'A M I', Rev: 1, Len: 68
+18:924  0:000    3. BAD949E8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+18:924  0:000    4. BAD94A28: 'HPET', 'A M I', Rev: 1, Len: 56
+18:924  0:000    5. BAD94A60: 'SSDT', 'CpuPm', Rev: 2, Len: 840576
+18:924  0:000    6. BAE61DE0: 'BGRT', 'A M I', Rev: 0, Len: 56
+18:924  0:000    7. BAE61E18: 'EINJ', 'AMI EINJ', Rev: 1, Len: 304
+18:924  0:000    8. BAE61F48: 'ERST', 'AMI ERST', Rev: 1, Len: 560
+18:924  0:000    9. BAE62178: 'HEST', 'AMI HEST', Rev: 1, Len: 168
+18:924  0:000    10. BAE62220: 'BERT', 'AMI BERT', Rev: 1, Len: 48
+18:924  0:000  Found UEFI Acpi 2.0 RSDP at BAD8C000
+18:924  0:000  Saving ACPI tables from RSDP BAD8C000 to EFI\CLOVER\ACPI\origin ...
+18:924  0:000   BAD8C000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+18:924  0:000    (Xsdt: BAD8C080, Rsdt: BAD8C028)
+18:924  0:000    BAD8C080: 'XSDT', 'A M I', Rev: 1, Len: 124
+18:924  0:000    BAD8C028: 'RSDT', 'A M I', Rev: 1, Len: 80
+18:924  0:000    Tables in Xsdt: 11
+18:924  0:000    0. BAD94758: 'FACP', 'A M I', Rev: 5, Len: 268
+18:924  0:000        (Dsdt: BAD8C190, Facs: BB345F80, XDsdt: BAD8C190, XFacs: 0)
+18:924  0:000        BAD8C190: 'DSDT', 'A M I', Rev: 2, Len: 34247
+18:925  0:001        BB345F80: 'FACS', Ver: 2, Len: 64
+18:925  0:000    1. BAD94868: 'APIC', 'A M I', Rev: 3, Len: 312
+18:925  0:000    2. BAD949A0: 'FPDT', 'A M I', Rev: 1, Len: 68
+18:925  0:000    3. BAD949E8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+18:925  0:000    4. BAD94A28: 'HPET', 'A M I', Rev: 1, Len: 56
+18:925  0:000    5. BAD94A60: 'SSDT', 'CpuPm', Rev: 2, Len: 840576
+18:925  0:000    6. BAE61DE0: 'BGRT', 'A M I', Rev: 0, Len: 56
+18:925  0:000    7. BAE61E18: 'EINJ', 'AMI EINJ', Rev: 1, Len: 304
+18:925  0:000    8. BAE61F48: 'ERST', 'AMI ERST', Rev: 1, Len: 560
+18:925  0:000    9. BAE62178: 'HEST', 'AMI HEST', Rev: 1, Len: 168
+18:925  0:000    10. BAE62220: 'BERT', 'AMI BERT', Rev: 1, Len: 48
+18:925  0:000    Tables in Rsdt: 11
+18:925  0:000    0. BAD8C108: 'FACP', 'A M I', Rev: 2, Len: 132
+18:925  0:000        (Dsdt: BAD8C190, Facs: BB345F40)
+18:925  0:000        BAD8C190: 'DSDT', 'A M I', Rev: 2, Len: 34247
+18:927  0:001        BB345F40: 'FACS', Ver: 0, Len: 64
+18:927  0:000    1. BAD94868: 'APIC', 'A M I', Rev: 3, Len: 312
+18:927  0:000    2. BAD949A0: 'FPDT', 'A M I', Rev: 1, Len: 68
+18:927  0:000    3. BAD949E8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+18:927  0:000    4. BAD94A28: 'HPET', 'A M I', Rev: 1, Len: 56
+18:927  0:000    5. BAD94A60: 'SSDT', 'CpuPm', Rev: 2, Len: 840576
+18:927  0:000    6. BAE61DE0: 'BGRT', 'A M I', Rev: 0, Len: 56
+18:927  0:000    7. BAE61E18: 'EINJ', 'AMI EINJ', Rev: 1, Len: 304
+18:927  0:000    8. BAE61F48: 'ERST', 'AMI ERST', Rev: 1, Len: 560
+18:927  0:000    9. BAE62178: 'HEST', 'AMI HEST', Rev: 1, Len: 168
+18:927  0:000    10. BAE62220: 'BERT', 'AMI BERT', Rev: 1, Len: 48
+18:927  0:000  Found UEFI Acpi 1.0 RSDP at BAD8C000
+18:927  0:000  Printing ACPI tables from RSDP BAD8C000 ...
+18:927  0:000   BAD8C000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+18:927  0:000    (Xsdt: BAD8C080, Rsdt: BAD8C028)
+18:927  0:000    BAD8C080: 'XSDT', 'A M I', Rev: 1, Len: 124
+18:927  0:000    BAD8C028: 'RSDT', 'A M I', Rev: 1, Len: 80
+18:927  0:000    Tables in Xsdt: 11
+18:927  0:000    0. BAD94758: 'FACP', 'A M I', Rev: 5, Len: 268
+18:927  0:000        (Dsdt: BAD8C190, Facs: BB345F80, XDsdt: BAD8C190, XFacs: 0)
+18:927  0:000        BAD8C190: 'DSDT', 'A M I', Rev: 2, Len: 34247
+18:929  0:001        BB345F80: 'FACS', Ver: 2, Len: 64
+18:929  0:000    1. BAD94868: 'APIC', 'A M I', Rev: 3, Len: 312
+18:929  0:000    2. BAD949A0: 'FPDT', 'A M I', Rev: 1, Len: 68
+18:929  0:000    3. BAD949E8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+18:929  0:000    4. BAD94A28: 'HPET', 'A M I', Rev: 1, Len: 56
+18:929  0:000    5. BAD94A60: 'SSDT', 'CpuPm', Rev: 2, Len: 840576
+18:929  0:000    6. BAE61DE0: 'BGRT', 'A M I', Rev: 0, Len: 56
+18:929  0:000    7. BAE61E18: 'EINJ', 'AMI EINJ', Rev: 1, Len: 304
+18:929  0:000    8. BAE61F48: 'ERST', 'AMI ERST', Rev: 1, Len: 560
+18:929  0:000    9. BAE62178: 'HEST', 'AMI HEST', Rev: 1, Len: 168
+18:929  0:000    10. BAE62220: 'BERT', 'AMI BERT', Rev: 1, Len: 48
+18:929  0:000    Tables in Rsdt: 11
+18:929  0:000    0. BAD8C108: 'FACP', 'A M I', Rev: 2, Len: 132
+18:929  0:000        (Dsdt: BAD8C190, Facs: BB345F40)
+18:929  0:000        BAD8C190: 'DSDT', 'A M I', Rev: 2, Len: 34247
+18:930  0:001        BB345F40: 'FACS', Ver: 0, Len: 64
+18:930  0:000    1. BAD94868: 'APIC', 'A M I', Rev: 3, Len: 312
+18:930  0:000    2. BAD949A0: 'FPDT', 'A M I', Rev: 1, Len: 68
+18:930  0:000    3. BAD949E8: 'MCFG', 'OEMMCFG.', Rev: 1, Len: 60
+18:930  0:000    4. BAD94A28: 'HPET', 'A M I', Rev: 1, Len: 56
+18:930  0:000    5. BAD94A60: 'SSDT', 'CpuPm', Rev: 2, Len: 840576
+18:930  0:000    6. BAE61DE0: 'BGRT', 'A M I', Rev: 0, Len: 56
+18:930  0:000    7. BAE61E18: 'EINJ', 'AMI EINJ', Rev: 1, Len: 304
+18:930  0:000    8. BAE61F48: 'ERST', 'AMI ERST', Rev: 1, Len: 560
+18:930  0:000    9. BAE62178: 'HEST', 'AMI HEST', Rev: 1, Len: 168
+18:930  0:000    10. BAE62220: 'BERT', 'AMI BERT', Rev: 1, Len: 48
